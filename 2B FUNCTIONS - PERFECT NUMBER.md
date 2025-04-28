@@ -7,7 +7,7 @@ To write a Python program that defines a function to accept two values and retur
 ---
 
 ### ALGORITHM
-
+---
 Start the program.
 Define a function result(a, b):
 Inside the function, calculate the modulo value using a % b.
