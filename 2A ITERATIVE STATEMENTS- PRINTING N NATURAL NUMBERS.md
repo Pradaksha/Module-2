@@ -30,10 +30,11 @@ print(f"Factorial of the given number {num} is {f}")
 
 ```
 ### OUTPUT
-```
-![image](https://github.com/user-attachments/assets/3686add7-aff4-4aa7-9727-3e63050e10f0)
 
-```
+![image](https://github.com/user-attachments/assets/eba6c92d-7688-44ce-8554-70044f49d909)
+
+
+
 ### RESULT
 ```
 The program successfully computes and prints the factorial of a given number.
