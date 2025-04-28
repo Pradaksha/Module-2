@@ -4,19 +4,23 @@
 ### AIM  
 To write a Python program that defines a function to accept two values and return their modulo value.
 
----
-
 ### ALGORITHM
----
-Start the program.
-Define a function result(a, b):
-Inside the function, calculate the modulo value using a % b.
-Return the result.
-Input two integers (a and b) from the user.
-Call the function result(a, b) and store the returned value.
-Print the modulo value.
-End the program.
----
+
+1.Start the program.
+
+2.Define a function result(a, b):
+
+3.Inside the function, calculate the modulo value using a % b.
+
+4.Return the result.
+
+5.Input two integers (a and b) from the user.
+
+6.Call the function result(a, b) and store the returned value.
+
+7.Print the modulo value.
+
+8.End the program.
 
 ### PROGRAM
 ```
